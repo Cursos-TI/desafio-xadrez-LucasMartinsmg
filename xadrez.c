@@ -18,7 +18,7 @@ int main() {
     // Implementação de Movimentação da Rainha
     // Sugestão: Utilize uma estrutura de repetição para simular a movimentação da Rainha para a esquerda.
 
-    int bispo = 1, torre = 1, rainha = 1, cavalo = 10; //VARIAVEIS PARA MOVIMENTAÇÃO DO JOGO
+    int bispo = 1, torre = 1, rainha = 1, cavalo = 1; //VARIAVEIS PARA MOVIMENTAÇÃO DO JOGO
     printf("#### MOVIMENTAÇÃO JOGO XADREZ ####\n Movimentação Bispo: \n");
 
     while (bispo <= 5) //Bispo: 5 casas na diagonal superior direita
