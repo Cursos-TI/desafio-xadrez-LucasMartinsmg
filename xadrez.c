@@ -54,7 +54,7 @@ int main() {
     }
     printf("MOVIMENTO CAVALO FINALIZADO\n\n");
 
-
+   
     
     
 
